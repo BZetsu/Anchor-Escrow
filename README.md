@@ -30,3 +30,7 @@ Anchor escrow program on Solana (make, take, refund).
 - make — maker creates escrow and deposits token A
 - refund — maker cancels and reclaims token A
 - take — taker sends token B to maker, receives token A from vault
+
+**Tests passing**
+
+![Tests passing](tests-passing.png)
